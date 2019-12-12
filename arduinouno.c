@@ -58,7 +58,7 @@ String sensorMovimiento() {
   {
 
 
-    resultado = "NO MOVIENDO";
+    resultado = "NOMOVIENDO";
     pirState = LOW;
 
   }
